@@ -1,0 +1,14 @@
+
+
+=> Collection (Tabela)
+
+=> Documents (Registros de uma tabela)
+
+{
+    name: "Fernando",
+    email: "fernando@qaninja.net"
+}
+
+https://docs.mongodb.com/ruby-driver/master
+
+TESTES DEVEM SER IDEPENDENTES
